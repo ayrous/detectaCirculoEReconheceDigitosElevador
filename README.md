@@ -22,6 +22,6 @@ Detecção de círculos e reconhecimento de dígitos de um painel de elevador co
   - Reconhecer as palavras ditas e coloca-las em uma lista
   - Percorrer a lista procurando por números de andares, caso contrário pedir novamente que seja dito o andar onde a pessoa deseja seguir
 ## Para executar este programa apenas e testar suas entradas e saídas:
-	- $ python3 getVoice.py
+	$ python3 getVoice.py
 
 ## HoughCircles.py
