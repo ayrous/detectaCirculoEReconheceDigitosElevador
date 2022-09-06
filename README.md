@@ -40,5 +40,6 @@ Caso a probabilidade seja superior ou igual a 0.999 e o resultado seja o número
 O reconhecimento de dígitos é feito um por vez, dependendo do número de círculos detectados na imagem. É precido apertar a tecla 'q' para que o programa troque o corte para o próximo ao botão circular e aplque a predição.
 
 ## Extra
-### Dependendo da sua imagem e do seu objetivo pode ser necessário alterar os parâmetros do HoughCircle, dentro da função circles_detect do programa HoughCircles2.py.
-### Para uso da câmera da webcam, é recomendado a inatalação do aplicativo IP Webcam em seu celular, colocando em seu código o endpoint IPV4 fornecido após iniciar o servidor.
+ Dependendo da sua imagem e do seu objetivo pode ser necessário alterar os parâmetros do HoughCircle, dentro da função circles_detect do programa HoughCircles2.py.
+
+Para uso da câmera da webcam, é recomendado a inatalação do aplicativo IP Webcam em seu celular, colocando em seu código o endpoint IPV4 fornecido após iniciar o servidor.
