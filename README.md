@@ -1,4 +1,4 @@
-# Reconhecimento de Círculos e Dígitos em Uma Imagem com text to speech
+# Reconhecimento de Círculos e Dígitos em uma Imagem com Input de Voz
 Detecção de círculos e reconhecimento de dígitos de um painel de elevador com input e output de voz.
 
 ### Este projeto tem como objetivo macro auxiliar pessoas de algum grau de deficiência visual a conseguirem utilizar o elevador de forma mais fácil ao detectar os círculos de uma imagem e realizar o reconhecimento dos números de 0-9 ao lado dos botões circulares de um painel de elevador.
